@@ -24,8 +24,8 @@
         }
     ],
     "env": {
-        "GROQ_API_KEY": "@groq_api_key",
-        "API_KEY": "@api_key",
-        "GUVI_ENDPOINT": "@guvi_endpoint"
+        "GROQ_API_KEY": "@GROQ_API_KEY",
+        "API_KEY": "@API_KEY",
+        "GUVI_ENDPOINT": "@GUVI_ENDPOINT"
     }
 }
